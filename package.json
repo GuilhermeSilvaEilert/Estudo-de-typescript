@@ -1,0 +1,25 @@
+{
+  "devDependencies": {
+    "@types/node": "^22.18.12",
+    "typescript": "^5.9.3"
+  },
+  "dependencies": {
+    "@types/express": "^5.0.3",
+    "@types/reflect-metadata": "^0.1.0",
+    "axios": "^1.12.2",
+    "express": "^5.1.0",
+    "node-fetch": "^3.3.2",
+    "reflect-metadata": "^0.2.2",
+    "ts-node": "^10.9.2"
+  },
+  "name": "pasta-do-curso-de-typescript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
