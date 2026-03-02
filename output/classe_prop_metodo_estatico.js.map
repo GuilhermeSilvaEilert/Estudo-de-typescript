@@ -1,0 +1,1 @@
+{"version":3,"file":"classe_prop_metodo_estatico.js","sourceRoot":"","sources":["../scripts/classe_prop_metodo_estatico.ts"],"names":[],"mappings":";;AAAA,yDAAsD;AAEtD,MAAM,YAAY,GAAG,2BAAY,CAAC,OAAO,CAAC;IACtC,SAAS,EAAE,2BAAY,CAAC,cAAc;IACtC,EAAE,EAAE,2BAAY,CAAC,KAAK;IACtB,KAAK,EAAC,YAAY;IAClB,OAAO,EAAC,MAAM;CACjB,CAAC,CAAC;AAEH,OAAO,CAAC,GAAG,CAAC,YAAY,CAAC,CAAC"}

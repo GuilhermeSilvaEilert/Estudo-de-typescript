@@ -1,0 +1,20 @@
+"use strict";
+let ano;
+let ano2;
+let ano3;
+let ano4;
+let ano5;
+let ano6;
+ano = 2021;
+ano2 = Number("2021");
+ano3 = +"2021";
+ano4 = parseInt("2021.06");
+ano5 = parseFloat("2021.06");
+ano6 = 2021n;
+console.log(ano);
+console.log(ano2);
+console.log(ano3);
+console.log(ano4);
+console.log(ano5);
+console.log(ano6);
+//# sourceMappingURL=number.js.map
